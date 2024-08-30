@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I'm Alex, your friendly neighborhood Site Reliability Engineer with a solid 20 years under my belt in the IT world. I've got a deep love for all things open source, spending my free time diving into NixOS, and tinkering with Golang and Python. Always on the lookout for new tech puzzles to solve!
+I'm Alex, your friendly neighborhood Site Reliability Engineer with a solid 20 years under my belt in the IT world. I've got a deep love for open-source software, spending my free time diving into Golang, Python and tinkering with NixOS. Always on the lookout for new tech puzzles to solve!
 
 ## 📧 You can reach me at
 
