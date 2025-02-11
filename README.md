@@ -9,4 +9,4 @@ I'm Alex, your friendly neighborhood Site Reliability Engineer. I've got a deep 
 
 ## 📊 My GitHub Stats <!--{ fold() }-->
 
-![ ](https://github-readme-stats-one-bice.vercel.app/api?username=AlexNabokikh&include_all_commits=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&role=OWNER,ORGANIZATION_MEMBER)
+![ ](https://github-readme-stats.vercel.app/api?username=alexnabokikh&show_icons=true&rank_icon=percentile&bg_color=00000000)
